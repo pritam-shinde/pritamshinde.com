@@ -1,0 +1,33 @@
+#banner {
+  height: 100vh;
+  width: 100%;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.55)), to(rgba(0, 0, 0, 0.55))), url("../Images/printam_shinde_banner.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url("../Images/printam_shinde_banner.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
+#banner #HeroText h5 p {
+  font-size: 1.875rem;
+  font-weight: 700;
+  letter-spacing: 0.25rem;
+  font-family: var(--oswald);
+  color: var(--green);
+}
+
+#banner #HeroText h5 p::first-letter {
+  color: #fff;
+}
+
+#banner #HeroText h1 {
+  color: #ccc;
+  font-family: 'Warpaint';
+}
+
+@media only screen and (max-width: 576px) {
+  #banner #HeroText h1 {
+    font-size: 3.5rem;
+  }
+}
+/*# sourceMappingURL=hero.css.map */

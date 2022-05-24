@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,CAAA;EACE,SAAS,EAAE,mBAAmB;EAC9B,WAAW,EAAE,cAAc;EAC3B,WAAW,EAAE,aAAa,CAAC,UAAU;EACrC,WAAW,EAAE,cAAc;CAK9B;;AAHG,MAAM,MAAM,MAAM,MAAM,SAAS,EAAE,KAAK;EAN5C,AAAA,EAAE,CAAA;IAOM,SAAS,EAAE,mBAAmB;GAErC",
+    "sources": [
+        "sectionalheading.scss"
+    ],
+    "names": [],
+    "file": "sectionalheading.css"
+}
