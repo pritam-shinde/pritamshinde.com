@@ -5,7 +5,7 @@ import { SectionalHeading } from '../../../../Components/Components'
 const Contact = () => {
     return (
         <>
-            <Container maxWidth="xxl" style={{ backgroundColor: "#2ab189" }}>
+            <Container maxWidth="xxl" style={{ backgroundColor: "#2ab189" }} id="contact">
                 <Grid container>
                     <Grid item xs={11} md={10} lg={9} className="mx-auto">
                         <Box py={5}>
