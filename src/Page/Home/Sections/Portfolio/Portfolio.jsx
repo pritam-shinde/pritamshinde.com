@@ -1,15 +1,15 @@
-import { Container, Grid, Box, Link } from "@mui/material"
+import { Container, Grid, Box, Link } from "@mui/material";
 import { SectionalHeading } from "../../../../Components/Components";
 import project1 from './Images/01.jpg';
-import project2 from './Images/05.jpg'
-import project3 from './Images/03.jpg'
-import project4 from './Images/04.jpg'
+import project2 from './Images/05.jpg';
+import project3 from './Images/03.jpg';
+import project4 from './Images/04.jpg';
 import project5 from './Images/02.jpg';
 import project7 from './Images/06.jpg';
 import project8 from './Images/07.jpg';
 import project9 from './Images/08.jpg';
 import project10 from './Images/09.jpg';
-import project6 from './Images/010.jpg'
+import project6 from './Images/010.jpg';
 
 const Portfolio = () => {
     return (
